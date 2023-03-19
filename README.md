@@ -1,2 +1,2 @@
 # omnifood-website
-this is only html ans css project
+this is just html and css project
